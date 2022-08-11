@@ -1,9 +1,7 @@
 // Bro Code: Java Full Course -Learn to code today- [Free] (Variables - 20:26)
 
-public class variables 
-{
-    public static void main(String[] args)
-    {
+public class variables {
+    public static void main(String[] args) {
         int x; // declaration
         x = 123; // assignment
         int y = 123; // initalization
